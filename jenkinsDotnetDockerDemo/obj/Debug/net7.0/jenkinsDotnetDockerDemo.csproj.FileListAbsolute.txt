@@ -1,0 +1,15 @@
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\bin\Debug\net7.0\jenkinsDotnetDockerDemo.exe
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\bin\Debug\net7.0\jenkinsDotnetDockerDemo.deps.json
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\bin\Debug\net7.0\jenkinsDotnetDockerDemo.runtimeconfig.json
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\bin\Debug\net7.0\jenkinsDotnetDockerDemo.dll
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\bin\Debug\net7.0\jenkinsDotnetDockerDemo.pdb
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\obj\Debug\net7.0\jenkinsDotnetDockerDemo.csproj.AssemblyReference.cache
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\obj\Debug\net7.0\jenkinsDotnetDockerDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\obj\Debug\net7.0\jenkinsDotnetDockerDemo.AssemblyInfoInputs.cache
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\obj\Debug\net7.0\jenkinsDotnetDockerDemo.AssemblyInfo.cs
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\obj\Debug\net7.0\jenkinsDotnetDockerDemo.csproj.CoreCompileInputs.cache
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\obj\Debug\net7.0\jenkinsDotnetDockerDemo.dll
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\obj\Debug\net7.0\refint\jenkinsDotnetDockerDemo.dll
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\obj\Debug\net7.0\jenkinsDotnetDockerDemo.pdb
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\obj\Debug\net7.0\jenkinsDotnetDockerDemo.genruntimeconfig.cache
+C:\Users\crisi\Desktop\Now Learning\jenkinsDotnetDockerDemo\jenkinsDotnetDockerDemo\obj\Debug\net7.0\ref\jenkinsDotnetDockerDemo.dll
